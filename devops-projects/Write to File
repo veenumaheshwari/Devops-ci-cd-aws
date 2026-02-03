@@ -1,0 +1,14 @@
+html 
+
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Devops CI/CD</title>
+</head>
+<body>
+  <h1>Hello from DevOps CI/CD Project 🚀</h1>
+  <p>Deployed automatically using GitHub Actions</p>
+</body>
+</html>
+
+
